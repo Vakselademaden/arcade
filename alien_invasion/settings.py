@@ -1,6 +1,6 @@
 import os
 
-PATH_FOR_ASSETS = os.getcwd() + '/assets'
+PATH_FOR_ASSETS = os.getcwd() + '/arcade/alien_invasion/assets'
 
 SPRITE_SCALING_PLAYER = 0.5
 SPRITE_SCALING_ALIEN = 0.2
